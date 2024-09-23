@@ -1,0 +1,1 @@
+# plugins-simple-contact-info-widget
